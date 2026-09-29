@@ -2,6 +2,8 @@
 
 版本：v0.1 · 日期：2026-09-24 · 状态：开发文档入口，系统实现与效果待验收
 
+代码导航：[《项目代码结构说明》](/Users/agiuser/Documents/Codex/2026-09-24/ca/outputs/robot-coding-agent-code-structure.md)按实际目录说明原 Cap-X 和新增 stateful Agent 的入口、模块职责、调用关系、测试及资源，并提供按开发目标查找文件的索引。
+
 2026-09-29 后续安排：新增[后续实施路线图](/Users/agiuser/Documents/Codex/2026-09-24/ca/outputs/robot-coding-agent-next-steps.md)，按实际仿真接入、真实模型与 CoF/P 联调、对照评测、多任务及技能复用安排工作，列出交付物和验收标准。最近里程碑是单项 Robosuite 堆叠任务的完整联调证据包；路线图中的新增能力仍待实施。
 
 2026-09-28 第四阶段进展：CoF 证据反馈、P 适配与处理确认、验证及后续动作门控已接成完整合成闭环。169 项测试通过，15 种故障/正常轨迹已保存。当前 P 是本地参考实现，未调用真实模型或外部 P；实际支持范围见[第四阶段交付说明](/Users/agiuser/Documents/Codex/2026-09-24/ca/outputs/stage4-closed-loop/README.md)。
