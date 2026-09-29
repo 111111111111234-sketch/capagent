@@ -1,0 +1,11 @@
+{
+  "model": "REPLACE_WITH_YOUR_MODEL",
+  "endpoint": "https://YOUR_MODEL_SERVICE/v1/chat/completions",
+  "api_key_env": "CAPX_MODEL_API_KEY",
+  "timeout_s": 30.0,
+  "max_http_attempts": 2,
+  "max_output_tokens": 2048,
+  "token_parameter": "max_tokens",
+  "temperature": null,
+  "json_object_mode": false
+}
